@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     int radius;
-    float area;
+    double area;
     
     scanf("%d",&radius);
     
