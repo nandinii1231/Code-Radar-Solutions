@@ -6,6 +6,6 @@ int mai(){
         printf("a");
     }
     else{
-        print("b");
+        printf("b");
     }
 }
