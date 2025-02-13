@@ -3,7 +3,7 @@ int mai(){
     int a,b;
     scanf("%d %d",&a,&b);
     if(a<b){
-        printf(""a");
+        printf("a");
     }
     else{
         print("b");
