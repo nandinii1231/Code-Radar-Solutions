@@ -2,7 +2,7 @@
 int main(){
  char ch;
  scanf("%c",&ch);
- if(ch==A,E,I,O,U,a,e,i,o,u){
+ if(ch=='A'||ch=='E'||ch==I)||ch=='I'||ch=='O'||ch=='U'||ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u'){
     printf("Vowel");
  }  
  else if (ch>=65 && ch<=90 || ch>=97 && ch><=122){
