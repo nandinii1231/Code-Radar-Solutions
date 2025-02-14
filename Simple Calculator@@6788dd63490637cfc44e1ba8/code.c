@@ -9,11 +9,11 @@ int main(){
         printf("%d",a-b);
     if(op=='*')
         printf("%d",a*b);
-     else if(op=='/'){
+    else if(op=='/'){
         if(b==0){
         printf("error");
     }
-    else{
+        else{
         printf("%d",a/b);
     }
      }
