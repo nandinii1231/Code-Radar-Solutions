@@ -5,7 +5,7 @@ int main(){
     int i=1;
     
     while(i<=n){
-        int j=n;
+        int j=n-i;
         while(j>0){
             printf("* ");
             j--;
