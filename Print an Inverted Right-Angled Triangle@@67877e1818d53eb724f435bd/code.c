@@ -9,7 +9,8 @@ int main(){
             printf("*");
             j++;
         }
-        i++;
+        printf(\n);
+        i--;
     }
     
 
