@@ -7,7 +7,8 @@ int main(){
     while(i<=n){
         int j=1;
         while(j<=i){
-            printf("* ");
+            printf("star ");
+            star--;
             j++;
         }
         printf("\n");
