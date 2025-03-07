@@ -10,7 +10,8 @@ int main(){
         printf(value);
         j=j+1;
         }
+        value=value+1;
     }
-    value=value+1;
+    
     i=i+1;
 }
