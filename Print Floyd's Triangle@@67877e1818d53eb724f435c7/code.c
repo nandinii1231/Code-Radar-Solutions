@@ -7,7 +7,7 @@ int main(){
     while(i<=n){
         int j=1;
         while(j<=i){
-        printf(value);
+        printf("%d",value);
         j=j+1;
         }
         value=value+1;
