@@ -9,8 +9,9 @@ int main(){
         while(j<=i){
         printf("%d",value);
         j=j+1;
-        }
         value=value+1;
+        }
+        
     }
     
     i=i+1;
