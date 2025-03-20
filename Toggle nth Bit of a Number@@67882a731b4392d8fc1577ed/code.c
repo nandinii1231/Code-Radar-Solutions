@@ -1,5 +1,5 @@
 #include<stdio.h>
-int mmain(){
+int main(){
     int n,num,result;
     scanf("%d %d",&n,&num);
     result=num^(1<<n);
